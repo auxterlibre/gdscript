@@ -1,4 +1,4 @@
 # gdscript
 GD Script snapshots
 
-[Signals.gd](Signals.gd) - Manage creation and use of signals
+[Wait.gd](Wait.gd) - Manage creation and use of signals
